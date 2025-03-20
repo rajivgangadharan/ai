@@ -36,6 +36,6 @@ Some of the key technologies and tools I work with in this repository include:
 Clone the repository and dive into any project folder:
 
 ```bash
-git clone https://github.com/your-username/AI-Playground.git
-cd AI-Playground
+git clone https://github.com/rajivgangadharan/ai.git
+cd ai
 ```
